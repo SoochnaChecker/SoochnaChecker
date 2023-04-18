@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "My Extension",
-  "version": "1.0",
+  "version": "5.0",
   "description": "This is my Chrome extension.",
   "action": {
     "default_icon": "icon.png",
