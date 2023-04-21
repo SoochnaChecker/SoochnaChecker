@@ -1,2 +1,2 @@
-# soochna_checker
+# SoochnaChecker
 KVH-003
