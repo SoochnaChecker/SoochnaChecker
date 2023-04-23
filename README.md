@@ -1,6 +1,6 @@
 # SoochnaChecker
 ## An AI enabled Twitter Bot for Real Time Fake News Detection 
->  This project is a part of _Kavach Natonal Hackathon_ based on Problem Statement ID: **KVH-003**
+>  This project is a part of _Kavach National Hackathon_ based on Problem Statement ID: **KVH-003**
 
 | Team Trace | Gender | UG Year
 | --- | --- | --- |
