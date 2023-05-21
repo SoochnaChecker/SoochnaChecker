@@ -2,6 +2,12 @@
 ## An AI enabled Twitter Bot for Real Time Fake News Detection 
 >  This project is a part of _Kavach National Hackathon_ based on Problem Statement ID: **KVH-003**
 
+### Product's Workflow
+
+> ![image](https://user-images.githubusercontent.com/110292494/233871363-766714f8-1b37-4646-8364-439eb5f4add0.jpg)
+
+### Product's Working Images 
+
 ![image](https://github.com/itsOmSarraf/SoochnaChecker/assets/83817663/ae644bc3-c8dd-496e-b45b-c571395942d8)
 
 ![image](https://github.com/itsOmSarraf/SoochnaChecker/assets/83817663/d1d47162-a9ef-4560-a693-8de9e5d6433b)
@@ -11,11 +17,6 @@
 ![image](https://github.com/itsOmSarraf/SoochnaChecker/assets/83817663/1ee6a38a-547f-4d60-a2a8-380aea018a7d)
 
 ![image](https://github.com/itsOmSarraf/SoochnaChecker/assets/83817663/f260b0f6-f2df-41c8-8a56-50990d36505f)
-
-
-### Product Workflow
-
-> ![image](https://user-images.githubusercontent.com/110292494/233871363-766714f8-1b37-4646-8364-439eb5f4add0.jpg)
 
 - ***Research Paper Reference:***
   > 1. [Detection of Turkish Fake News in Twitter with Machine Learning Algorithms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8485117/#Sec3title)
